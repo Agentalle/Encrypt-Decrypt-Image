@@ -33,7 +33,7 @@ Click the "Decrypt Image" button and select the encrypted image to decrypt.
 Requirements: Python 3.x
 Tkinter (comes pre-installed with standard Python distributions) 
 ___
-👩🏻‍💻Code: (Above there is "En-Dec Image.py" file)
+👩🏻‍💻Code: (Above there is "En-Dec Image.py" file </>)
 ***
 📷Here is Practical video for your reference:
 
